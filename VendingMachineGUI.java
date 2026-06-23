@@ -327,6 +327,8 @@ public class VendingMachineGUI extends JFrame {
         }
     }
 
+    String ixt24 = "twenty four";
+
     // method untuk mengubah harga
     private void showUbahHarga() {
         String[] productNames = products.toArray(new String[0]);
